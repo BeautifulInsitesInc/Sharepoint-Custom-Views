@@ -1,0 +1,25 @@
+{
+    "sections": [
+        {
+            "displayname": "Details",
+            "fields": [
+                "Date",
+                "Contact"
+            ]
+        },
+        {
+            "displayname": "Meeting Notes",
+            "fields": [
+                "Video Link",
+                "Meeting Notes"
+            ]
+        },
+        {
+            "displayname": "Follow-up",
+            "fields": [
+                "Next Date",
+                "Follow-up Notes"
+            ]
+        }
+    ]
+}
